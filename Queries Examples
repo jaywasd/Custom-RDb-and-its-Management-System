@@ -1,0 +1,14 @@
+create table Persons (ID int PRIMARY KEY, LastName varchar(20), FirstName varchar(20), Age int);
+insert into Persons(ID,LastName,FirstName,Age) values(1, 'Jaggi', 'Ridam', 23);
+insert into Persons(ID,LastName,FirstName,Age) values(1, 'Patel', 'Jay', 22);
+insert into Persons(ID,LastName,FirstName,Age) values(1, 'Barot', 'Shivam', 22);
+select Name,ID,Age from Persons where Age >= 22;
+
+create table Personson (ID int PRIMARY KEY, LastName varchar(20), FirstName varchar(20), Age int);
+
+
+
+*Login me se path ko reset kar dena.
+
+
+

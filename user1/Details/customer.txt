@@ -1,0 +1,5 @@
+Name(Varchar(50)|Id(int|Program(Varchar(50)|
+House|1|BA
+Shivam|2|MS
+Jay|3|MS
+Ridampreet|4|MS
