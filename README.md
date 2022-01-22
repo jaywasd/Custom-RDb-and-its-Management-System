@@ -1,7 +1,3 @@
 # CSCI5408_Data_Warehousing_Project_Group_7
 
-Repository for Data Warehousing Project Group 7
-
-- Jay Nimeshkumar Patel (B00885078)
-- Ridampreet Singh Jaggi (B00882657)
-- Shivam Miteshkumar Barot (B00885167)
+#### A CLI application replicating around 70% of the functionality of unified visual database design tools (like MySql Workbench).
